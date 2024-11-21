@@ -1,0 +1,15 @@
+,Estimate,CI95_lower,CI95_upper,Description
+σr,7.203,5.066,8.46,SD of per-indivudal random effect
+σe,7.736,6.748,8.671,SD of residuals
+β0,33.23,23.47,42.98,Overall mean
+βa2,4.76,1.173,8.382,Fixed effect for 8-week time point
+βa3,4.613,1.097,8.207,Fixed effect for 12-week time point
+β(site),-1.291,-5.585,3,Fixed effect for site 2 vs site 1
+β(age),0.04392,-0.1578,0.2462,Fixed effect for age
+β(sex_M),1.451,-2.606,5.509,Fixed effect for sex M vs F
+β(mod_total),-3.295,-5.713,-0.8985,Fixed effect for number of hallucinatory modalities, excluding sensed presence
+β(base_dur),-0.004645,-0.02354,0.01437,Fixed effect for baseline duration of symptoms
+β(time_eng),0.1355,-0.06573,0.3367,Fixed effect for length of time engaged in service
+β(delusions),-0.09099,-0.4022,0.222,Fixed effect for PSYRATs total delusion score at baseline
+β2,-0.3613,-5.09,4.367,Fixed effect for treatment at 8-week time point
+β3,3.239,-1.448,7.907,Fixed effect for treatment at 12-week time point

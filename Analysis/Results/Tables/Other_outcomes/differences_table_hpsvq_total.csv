@@ -1,0 +1,4 @@
+,TAU: number of usable outcome scores,TAU: outcome mean (SD),TAU: change from baseline (95% CI),MUSE: number of usable outcome scores,MUSE: outcome mean (SD),MUSE: change from baseline (95% CI),MUSE-TAU: number of usable outcome scores,MUSE-TAU: outcome mean (SD),MUSE-TAU: change from baseline (95% CI)
+Baseline,42,23.64 (5.643),-,40,23.62 (6.037),-,82,-0.01786 (1.292),-
+Week 8,35,20.49 (9.429),-3.429 (8.071),34,20.85 (7.824),-3.147 (4.56),69,0.3672 (2.083),0.2815 (-2.8, 3.363)
+Week 12,35,17.94 (10.06),-5.514 (8.521),34,18.12 (8.714),-5.735 (6.761),69,0.1748 (2.264),-0.221 (-3.845, 3.403)

@@ -1,0 +1,9 @@
+,Estimate,CI95_lower,CI95_upper,Description
+σr,7.95,5.807,10.3,SD of per-indivudal random effect
+σe,5.841,4.835,6.789,SD of residuals
+β0,27.97,23.61,32.33,Overall mean
+βa2,-9.015,-21.26,3.267,Fixed effect for 8-week time point
+βa3,-5.787,-18.08,6.533,Fixed effect for 12-week time point
+β(site),1.698,-4.081,7.481,Fixed effect for site 2 vs site 1
+β2,0.8104,-1.426,3.041,Fixed effect for number of treatments at 8-week time point
+β3,-0.3003,-2.539,1.933,Fixed effect for number of treatments treatment at 12-week time point
